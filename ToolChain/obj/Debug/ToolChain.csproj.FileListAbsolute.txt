@@ -1,0 +1,6 @@
+D:\Git Repos\ToolChain\ToolChain\bin\Debug\ToolChain.exe.config
+D:\Git Repos\ToolChain\ToolChain\bin\Debug\ToolChain.exe
+D:\Git Repos\ToolChain\ToolChain\bin\Debug\ToolChain.pdb
+D:\Git Repos\ToolChain\ToolChain\obj\Debug\ToolChain.csprojResolveAssemblyReference.cache
+D:\Git Repos\ToolChain\ToolChain\obj\Debug\ToolChain.exe
+D:\Git Repos\ToolChain\ToolChain\obj\Debug\ToolChain.pdb
