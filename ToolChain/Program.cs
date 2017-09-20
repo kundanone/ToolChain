@@ -8,7 +8,7 @@ namespace ToolChain
 {
     class Program
     {
-        public static customFunc(int a, int b)
+        public static void customFunc(int a, int b)
         {
             int total = a + b;
             Console.Write("Sum is "+ total);
