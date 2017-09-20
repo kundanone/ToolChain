@@ -18,4 +18,11 @@ namespace ToolChain
             Console.Write("Hello World");
         }
     }
+     class Custom1
+    {
+        void func()
+        {
+            Console.Write("Test");
+        }
+    }
 }
