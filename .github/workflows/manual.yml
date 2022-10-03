@@ -15,6 +15,30 @@ on:
         default: 'World'
         # Input has to be provided for the workflow to run
         required: true
+      post-to-slack:
+        type: choice
+        description: 'Post results to teams/slack'
+        required: true
+        default: 'yes'
+        options:
+        - 'yes'
+        - 'no'
+      post-to-di:
+        type: choice
+        description: 'Post to Devops Intelligence'
+        required: true
+        default: 'yes'
+        options:
+        - 'yes'
+        - 'no'
+      env:
+        type: choice
+        description: 'env to run automation'
+        required: true
+        default: 'ecamsvt-app1'
+        options:
+        - 'ecamsvt-app1'
+        - 'ecamrelease1'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
